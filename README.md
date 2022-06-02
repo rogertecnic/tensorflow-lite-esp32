@@ -1,3 +1,10 @@
+## Repositório rogertecnic/tensorflow-lite-esp32
+
+>✅ Modelo treinado no "Train Model.ipynb"
+>
+>✅ firmware compilado e gravado na placa "AIthinker esp32cam", abrindo a pasta "firmware" pelo VSCode e inserindo no arquivo "platformio.ini" as configurações da placa  certa.
+
+---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z734F5Y)
 # TensorFlow-Lite and Platform.io
 
